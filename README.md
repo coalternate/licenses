@@ -2,7 +2,7 @@
 
 This is a large collection of open source licenses, neatly formatted in Markdown for aesthetic purposes. Each license has been carefully adapted from its source material, differing only in its formatting for a more visually appealing look. The wording of each license remains identical to its source material.
 
-GitHub fully recognizes the source material of each license listed below, and despite the fact that each license's wording is verbatim to its source material, certain licenses in this collection are unrecognized by GitHub's license linter, as indicated by a large red X in the left-hand column. This means that if you decide to use one of the unrecognized licenses for your project, then when your project's repository is viewed, GitHub will not tell users which license you are using (displaying a generic `View License` link instead), and will not show users the Permissions, Limitations, and Conditions for the license when it is viewed.
+Note: While GitHub fully recognizes the source material of each license listed below, and while each license's wording is verbatim to its source material, certain licenses in this collection are unrecognized by GitHub's license linter, as indicated by a large red X in the left-hand column. This means that if you decide to use one of the unrecognized licenses for your project, then when your project's repository is viewed, GitHub will not tell users which license you are using (displaying a generic `View License` link instead), and will not show users the Permissions, Limitations, and Conditions for the license when it is viewed.
 
 |                    |                              Full License Name                             |       SPDX-ID        |
 | ------------------ | -------------------------------------------------------------------------- | -------------------- |
@@ -46,7 +46,7 @@ GitHub fully recognizes the source material of each license listed below, and de
 |                :x: |                       [Do What The Fuck You Want To Public License][WTFPL] | `WTFPL`              |
 | :heavy_check_mark: |                                                       [zlib License][Zlib] | `Zlib`               |
 
-All plaintext licenses (with the exception of CECILL-2.1.txt) were copied directly from [choosealicense.com](https://choosealicense.com) by [GitHub](https://github.com/github), which is licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/). The markdown licenses are adapted directly from the plaintext versions, and differ only in their formatting.
+All plaintext licenses (with the exception of `CECILL-2.1.txt`) were copied directly from [choosealicense.com](https://choosealicense.com) by [GitHub](https://github.com/github), which is licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/). The markdown licenses are adapted directly from the plaintext versions, and differ only in their formatting.
 
 [0BSD]:                 https://github.com/coalternate/licenses/blob/master/markdown/0BSD.md
 [AFL-3.0]:              https://github.com/coalternate/licenses/blob/master/markdown/AFL-3.0.md
