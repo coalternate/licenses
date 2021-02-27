@@ -1,3 +1,5 @@
+![Markdown Licenses](https://github.com/coalternate/licenses/blob/master/banner.svg)
+
 # Markdown Licenses
 
 This is a large collection of open source licenses, neatly formatted in Markdown for aesthetic purposes. Each license has been carefully adapted from its source material, differing only in its formatting for a more visually appealing look. The wording of each license remains identical to its source material.
