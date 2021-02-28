@@ -1,4 +1,4 @@
-![Markdown Licenses](https://github.com/coalternate/licenses/blob/master/banner.svg)
+![Markdown Licenses](https://github.com/coalternate/licensor/blob/master/banner.svg)
 
 Tired of your license files looking like gross, unreadable blobs of text? Fear no more! This is a large collection of open source licenses, all neatly formatted in Markdown to give your license files the aesthetically pleasing edge they deserve. What are you waiting for? Pick a license below!
 
@@ -65,48 +65,48 @@ Now I'm by no means a lawyer, but given that GNU's [own license page](http://www
 
 ### Licensing
 
-The markdown licenses are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/coalternate/licenses/blob/master/LICENSE.md), placing them all in the public domain. Feel free to use any or all of them at your leisure.
+The markdown licenses are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/coalternate/licensor/blob/master/LICENSE.md), placing them all in the public domain. Feel free to use any or all of them at your leisure.
 
 These licenses are *"as-is"*. I am not responsible for any issues that may arise from using these licenses.
 
 All the licenses in the `source` folder (with the exception of `CECILL-2.1.txt`) were copied directly from [choosealicense.com](https://choosealicense.com) by [GitHub](https://github.com/github), which is licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) (`CECILL-2.1.txt` was copied from [cecill.info](https://cecill.info/licences/Licence_CeCILL_V2.1-en.txt)). The markdown versions were adapted directly from these `.txt` counterparts, and differ only in their style and presentation. In the event a license's wording differs from the source it was adapted or copied from, please refer to that source for the correct wording.
 
-[0BSD]:                 https://github.com/coalternate/licenses/blob/master/markdown/0BSD.md
-[AFL-3.0]:              https://github.com/coalternate/licenses/blob/master/markdown/AFL-3.0.md
-[AGPL-3.0-or-later]:    https://github.com/coalternate/licenses/blob/master/markdown/AGPL-3.0-or-later.md
-[Apache-2.0]:           https://github.com/coalternate/licenses/blob/master/markdown/Apache-2.0.md
-[Artistic-2.0]:         https://github.com/coalternate/licenses/blob/master/markdown/Artistic-2.0.md
-[BSD-2-Clause]:         https://github.com/coalternate/licenses/blob/master/markdown/BSD-2-Clause.md
-[BSD-3-Clause-Clear]:   https://github.com/coalternate/licenses/blob/master/markdown/BSD-3-Clause-Clear.md
-[BSD-3-Clause]:         https://github.com/coalternate/licenses/blob/master/markdown/BSD-3-Clause.md
-[BSD-4-Clause]:         https://github.com/coalternate/licenses/blob/master/markdown/BSD-4-Clause.md
-[BSL-1.0]:              https://github.com/coalternate/licenses/blob/master/markdown/BSL-1.0.md
-[CC-BY-4.0]:            https://github.com/coalternate/licenses/blob/master/markdown/CC-BY-4.0.md
-[CC-BY-SA-4.0]:         https://github.com/coalternate/licenses/blob/master/markdown/CC-BY-SA-4.0.md
-[CC0-1.0]:              https://github.com/coalternate/licenses/blob/master/markdown/CC0-1.0.md
-[CECILL-2.1]:           https://github.com/coalternate/licenses/blob/master/markdown/CECILL-2.1.md
-[ECL-2.0]:              https://github.com/coalternate/licenses/blob/master/markdown/ECL-2.0.md
-[EPL-1.0]:              https://github.com/coalternate/licenses/blob/master/markdown/EPL-1.0.md
-[EPL-2.0]:              https://github.com/coalternate/licenses/blob/master/markdown/EPL-2.0.md
-[EUPL-1.1]:             https://github.com/coalternate/licenses/blob/master/markdown/EUPL-1.1.md
-[EUPL-1.2]:             https://github.com/coalternate/licenses/blob/master/markdown/EUPL-1.2.md
-[GPL-2.0-or-later]:     https://github.com/coalternate/licenses/blob/master/markdown/GPL-2.0-or-later.md
-[GPL-3.0-or-later]:     https://github.com/coalternate/licenses/blob/master/markdown/GPL-3.0-or-later.md
-[ISC]:                  https://github.com/coalternate/licenses/blob/master/markdown/ISC.md
-[LGPL-2.1-or-later]:    https://github.com/coalternate/licenses/blob/master/markdown/LGPL-2.1-or-later.md
-[LGPL-3.0-or-later]:    https://github.com/coalternate/licenses/blob/master/markdown/LGPL-3.0-or-later.md
-[LPPL-1.3c]:            https://github.com/coalternate/licenses/blob/master/markdown/LPPL-1.3c.md
-[MIT]:                  https://github.com/coalternate/licenses/blob/master/markdown/MIT.md
-[MPL-2.0]:              https://github.com/coalternate/licenses/blob/master/markdown/MPL-2.0.md
-[MS-PL]:                https://github.com/coalternate/licenses/blob/master/markdown/MS-PL.md
-[MS-RL]:                https://github.com/coalternate/licenses/blob/master/markdown/MS-RL.md
-[NCSA]:                 https://github.com/coalternate/licenses/blob/master/markdown/NCSA.md
-[ODbL-1.0]:             https://github.com/coalternate/licenses/blob/master/markdown/ODbL-1.0.md
-[OFL-1.1]:              https://github.com/coalternate/licenses/blob/master/markdown/OFL-1.1.md
-[OSL-3.0]:              https://github.com/coalternate/licenses/blob/master/markdown/OSL-3.0.md
-[PostgreSQL]:           https://github.com/coalternate/licenses/blob/master/markdown/PostgreSQL.md
-[UPL-1.0]:              https://github.com/coalternate/licenses/blob/master/markdown/UPL-1.0.md
-[Unlicense]:            https://github.com/coalternate/licenses/blob/master/markdown/Unlicense.md
-[Vim]:                  https://github.com/coalternate/licenses/blob/master/markdown/Vim.md
-[WTFPL]:                https://github.com/coalternate/licenses/blob/master/markdown/WTFPL.md
-[Zlib]:                 https://github.com/coalternate/licenses/blob/master/markdown/Zlib.md
+[0BSD]:                 https://github.com/coalternate/licensor/blob/master/markdown/0BSD.md
+[AFL-3.0]:              https://github.com/coalternate/licensor/blob/master/markdown/AFL-3.0.md
+[AGPL-3.0-or-later]:    https://github.com/coalternate/licensor/blob/master/markdown/AGPL-3.0-or-later.md
+[Apache-2.0]:           https://github.com/coalternate/licensor/blob/master/markdown/Apache-2.0.md
+[Artistic-2.0]:         https://github.com/coalternate/licensor/blob/master/markdown/Artistic-2.0.md
+[BSD-2-Clause]:         https://github.com/coalternate/licensor/blob/master/markdown/BSD-2-Clause.md
+[BSD-3-Clause-Clear]:   https://github.com/coalternate/licensor/blob/master/markdown/BSD-3-Clause-Clear.md
+[BSD-3-Clause]:         https://github.com/coalternate/licensor/blob/master/markdown/BSD-3-Clause.md
+[BSD-4-Clause]:         https://github.com/coalternate/licensor/blob/master/markdown/BSD-4-Clause.md
+[BSL-1.0]:              https://github.com/coalternate/licensor/blob/master/markdown/BSL-1.0.md
+[CC-BY-4.0]:            https://github.com/coalternate/licensor/blob/master/markdown/CC-BY-4.0.md
+[CC-BY-SA-4.0]:         https://github.com/coalternate/licensor/blob/master/markdown/CC-BY-SA-4.0.md
+[CC0-1.0]:              https://github.com/coalternate/licensor/blob/master/markdown/CC0-1.0.md
+[CECILL-2.1]:           https://github.com/coalternate/licensor/blob/master/markdown/CECILL-2.1.md
+[ECL-2.0]:              https://github.com/coalternate/licensor/blob/master/markdown/ECL-2.0.md
+[EPL-1.0]:              https://github.com/coalternate/licensor/blob/master/markdown/EPL-1.0.md
+[EPL-2.0]:              https://github.com/coalternate/licensor/blob/master/markdown/EPL-2.0.md
+[EUPL-1.1]:             https://github.com/coalternate/licensor/blob/master/markdown/EUPL-1.1.md
+[EUPL-1.2]:             https://github.com/coalternate/licensor/blob/master/markdown/EUPL-1.2.md
+[GPL-2.0-or-later]:     https://github.com/coalternate/licensor/blob/master/markdown/GPL-2.0-or-later.md
+[GPL-3.0-or-later]:     https://github.com/coalternate/licensor/blob/master/markdown/GPL-3.0-or-later.md
+[ISC]:                  https://github.com/coalternate/licensor/blob/master/markdown/ISC.md
+[LGPL-2.1-or-later]:    https://github.com/coalternate/licensor/blob/master/markdown/LGPL-2.1-or-later.md
+[LGPL-3.0-or-later]:    https://github.com/coalternate/licensor/blob/master/markdown/LGPL-3.0-or-later.md
+[LPPL-1.3c]:            https://github.com/coalternate/licensor/blob/master/markdown/LPPL-1.3c.md
+[MIT]:                  https://github.com/coalternate/licensor/blob/master/markdown/MIT.md
+[MPL-2.0]:              https://github.com/coalternate/licensor/blob/master/markdown/MPL-2.0.md
+[MS-PL]:                https://github.com/coalternate/licensor/blob/master/markdown/MS-PL.md
+[MS-RL]:                https://github.com/coalternate/licensor/blob/master/markdown/MS-RL.md
+[NCSA]:                 https://github.com/coalternate/licensor/blob/master/markdown/NCSA.md
+[ODbL-1.0]:             https://github.com/coalternate/licensor/blob/master/markdown/ODbL-1.0.md
+[OFL-1.1]:              https://github.com/coalternate/licensor/blob/master/markdown/OFL-1.1.md
+[OSL-3.0]:              https://github.com/coalternate/licensor/blob/master/markdown/OSL-3.0.md
+[PostgreSQL]:           https://github.com/coalternate/licensor/blob/master/markdown/PostgreSQL.md
+[UPL-1.0]:              https://github.com/coalternate/licensor/blob/master/markdown/UPL-1.0.md
+[Unlicense]:            https://github.com/coalternate/licensor/blob/master/markdown/Unlicense.md
+[Vim]:                  https://github.com/coalternate/licensor/blob/master/markdown/Vim.md
+[WTFPL]:                https://github.com/coalternate/licensor/blob/master/markdown/WTFPL.md
+[Zlib]:                 https://github.com/coalternate/licensor/blob/master/markdown/Zlib.md
