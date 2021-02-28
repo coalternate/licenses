@@ -50,6 +50,10 @@ Tired of your license files looking like gross, unreadable blobs of text? Fear n
 
 ## Resources
 
+### Tools
+
+[Licensor](https://gist.github.com/coalternate/774fa5a2e7944c8159f15cd22554d044): A small ZSH script to automatically create LICENSE files.
+
 ### FAQ
 
 #### How different are the markdown versions of the licenses?
