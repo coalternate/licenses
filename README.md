@@ -1,12 +1,12 @@
 ![Markdown Licenses](https://github.com/coalternate/licenses/blob/master/banner.svg)
 
-# Markdown Licenses
+Tired of your license files looking like gross, unreadable blobs of text? Fear no more! This is a large collection of open source licenses, all neatly formatted in Markdown to give your license files the aesthetically pleasing edge they deserve. What are you waiting for? Pick a license below!
 
-This is a large collection of open source licenses, neatly formatted in Markdown for aesthetic purposes. Each license has been carefully adapted from its source material, differing only in its formatting for a more visually appealing look. The wording of each license remains identical to its source material.
+> **NOTE:** GitHub's license linter fully recognizes the source licenses (available in the `source` folder), which means that when those licenses are used, a neat little box appears on the license page displaying the Permissions, Limitations, and Conditions of that license. While the markdown versions remain verbatim to those sources, certain markdown licenses are not recognized by the linter in the same way, and as such do not have that box. The left-hand column shows whether the license is (or isn't) recognized by the linter.
 
-Note: While GitHub fully recognizes the source material of each license listed below, and while each license's wording is verbatim to its source material, certain licenses in this collection are unrecognized by GitHub's license linter, as indicated by a large red X in the left-hand column. This means that if you decide to use one of the unrecognized licenses for your project, then when your project's repository is viewed, GitHub will not tell users which license you are using (displaying a generic `View License` link instead), and will not show users the Permissions, Limitations, and Conditions for the license when it is viewed.
+[//]: # ( Look! This table even looks pretty in raw markdown! You're welcome :D )
 
-|                    |                              Full License Name                             |       SPDX-ID        |
+|                    |                                License Name                                |       SPDX-ID        |
 | ------------------ | -------------------------------------------------------------------------- | -------------------- |
 | :heavy_check_mark: |                                            [BSD Zero Clause License][0BSD] | `0BSD`               |
 |                :x: |                                      [Academic Free License v3.0][AFL-3.0] | `AFL-3.0`            |
@@ -48,7 +48,28 @@ Note: While GitHub fully recognizes the source material of each license listed b
 |                :x: |                       [Do What The Fuck You Want To Public License][WTFPL] | `WTFPL`              |
 | :heavy_check_mark: |                                                       [zlib License][Zlib] | `Zlib`               |
 
-All plaintext licenses (with the exception of `CECILL-2.1.txt`) were copied directly from [choosealicense.com](https://choosealicense.com) by [GitHub](https://github.com/github), which is licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/). The markdown licenses are adapted directly from the plaintext versions, and differ only in their formatting.
+## Resources
+
+### FAQ
+
+#### How different are the markdown versions of the licenses?
+
+They're practically the same! The wording of each license hasn't been altered or edited in the slightest. The only changes made were to the style and presentation of the license text.
+
+#### Isn't it a violation of the license to change it?
+
+Certain licenses, like the [GNU GPL v3][GPL-3.0-or-later], contain clauses such as this:
+> Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
+Now I'm by no means a lawyer, but given that GNU's [own license page](http://www.gnu.org/licenses/) provides their licenses in several different formats, I think it's safe to assume that as long as the wording of the license is verbatim, then the stylistic alterations don't count as "changing" the license.
+
+### Licensing
+
+The markdown licenses are licensed under [Creative Commons Zero v1.0 Universal](https://github.com/coalternate/licenses/blob/master/LICENSE.md), placing them all in the public domain. Feel free to use any or all of them at your leisure.
+
+These licenses are *"as-is"*. I am not responsible for any issues that may arise from using these licenses.
+
+All the licenses in the `source` folder (with the exception of `CECILL-2.1.txt`) were copied directly from [choosealicense.com](https://choosealicense.com) by [GitHub](https://github.com/github), which is licensed under [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) (`CECILL-2.1.txt` was copied from [cecill.info](https://cecill.info/licences/Licence_CeCILL_V2.1-en.txt)). The markdown versions were adapted directly from these `.txt` counterparts, and differ only in their style and presentation. In the event a license's wording differs from the source it was adapted or copied from, please refer to that source for the correct wording.
 
 [0BSD]:                 https://github.com/coalternate/licenses/blob/master/markdown/0BSD.md
 [AFL-3.0]:              https://github.com/coalternate/licenses/blob/master/markdown/AFL-3.0.md
