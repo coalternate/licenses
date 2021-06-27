@@ -1,6 +1,6 @@
 ###### 2.0
 
-# The Artistic License
+# The Artistic License 2.0
 
 *Copyright © 2000-2006, The Perl Foundation.*
 

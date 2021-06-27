@@ -1,4 +1,6 @@
-# Mulan Permissive Software License, Version 2
+###### Version 2
+
+# Mulan Permissive Software License
 
 *Mulan Permissive Software License, Version 2 (Mulan PSL v2)* \
 *January 2020 http://license.coscl.org.cn/MulanPSL2*
@@ -53,7 +55,7 @@ To apply the Mulan PSL v2 to your work, for easy identification by recipients, y
 - **ii.** Create a file named "LICENSE" which contains the whole context of this License in the first directory of your software package;
 - **iii.** Attach the statement to the appropriate annotated syntax at the beginning of each source file.
 
-````
+```
 Copyright (c) [Year] [Name of Copyright Holder]
 [Software Name] is licensed under Mulan PSL v2.
 
@@ -66,4 +68,4 @@ THIS SOFTWARE IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY
 KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO 
 NON-INFRINGEMENT, MERCHANTABILITY OR FIT FOR A PARTICULAR PURPOSE.
 See the Mulan PSL v2 for more details.
-````
+```
