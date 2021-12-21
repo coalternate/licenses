@@ -54,7 +54,14 @@ Tired of your license files looking like gross, unreadable blobs of text? Fear n
 
 ### Tools
 
-[Licensor](https://gist.github.com/coalternate/774fa5a2e7944c8159f15cd22554d044): A small ZSH script to automatically create LICENSE files.
+[Licensor](https://github.com/coalternate/licenses/blob/master/licensor.zsh): A small ZSH script to automatically create LICENSE files.
+
+> #### Installation for MacOS
+> 
+> 1. Download the file. If you already have a `~/.bin` folder, place it there. If not, make one with `mkdir ~/.bin`.
+> 2. Remove the `.zsh` extension, and run `chmod a+x ~/.bin/licensor`. This will turn the script into an executable.
+> 3. If you had to make a `~/.bin` folder, add `export PATH="$PATH:$HOME/.bin"` to your `.zprofile`. (Your system might use a different file, such as `.profile` or `.zshrc`)
+> 4. Restart your favorite terminal. You should now be able to run `licensor` in any directory you want.
 
 ### FAQ
 
