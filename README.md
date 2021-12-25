@@ -1,4 +1,4 @@
-![Markdown Licenses](https://github.com/coalternate/licenses/blob/master/banner.svg)
+![Markdown Licenses](https://github.com/coalternate/licenses/blob/main/banner.svg)
 
 Tired of your license files looking like gross, unreadable blobs of text? Fear no more! This is a large collection of open source licenses, all neatly formatted in Markdown to give your license files the aesthetically pleasing edge they deserve. What are you waiting for? Pick a license below!
 
